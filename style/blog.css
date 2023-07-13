@@ -157,7 +157,72 @@ line-height: 30px; /* 166.667% */
     cursor: pointer;
     transition: 400ms;
 }
-
+/* this is a section-5 style */
 .forth{
+
+     margin-top:130px ;
+
+}
+.Get{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.for30{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.letest{
+
+border-radius: 8px;
+background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+ padding: 10%;
+
+}
+.letest input[type="type"], input[type="submit"]{
+    border-radius: 8px;
+   background: #FFF;
+   text-align: center;
+   
+}
+
+
+/* this is a footer */
+footer{
+    margin-top: 130px;
+ background: #111010;
+ padding: 10%;
+ border-radius: 5px;
+}
+.Flower{
+    color: #FFF;
+font-size: 48px;
+font-weight: 800;
+text-align: center;
+
+}
+.wer{
+    color: #E55473;
+font-size: 48px;
+font-weight: 800;
+
+}
+.page{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.rights{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
 
 }
