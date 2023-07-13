@@ -1,22 +1,25 @@
-*body{
+*body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
-.head-all{
+
+.head-all {
     color: #272727;
     font-size: 50px;
     font-weight: 800;
-   width: 500px;
- 
+    width: 500px;
+
 }
-.para-all{
+
+.para-all {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
-    line-height: 30px; 
+    line-height: 30px;
 }
-.btn-all{
+
+.btn-all {
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
@@ -25,25 +28,65 @@
     padding: 20px 40px;
     gap: 10px;
 }
+
 /* this is a header style */
-.box-1{
+.box-1 {
     background: rgba(229, 84, 115, 0.10);
-     padding: 100px 200px;
+    padding: 100px 200px;
 
 }
-.content{
+
+.content {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 130px;
-    margin-bottom:0px;
-}
-img{
-    width: 650px;
-      height: 800px;
-   
-      
+    margin-bottom: 0px;
 }
 
- 
+img {
+    width: 650px;
+    height: 800px;
+
+}
+
+/* this is a main- section-1 style */
+main{
+    margin-top: 250px;
+}
+
+.our {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 25px;
+}
+
+.long {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25px;
+    
+
+}
+.continer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.continer img{
+    width: 300px;
+    height: 400px;
+    padding: 2%;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin:10px ;
+    cursor: pointer;
+    transition: 400ms;
+
+}
+
 
