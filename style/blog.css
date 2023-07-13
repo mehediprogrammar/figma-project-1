@@ -27,6 +27,7 @@
     background: #E55473;
     padding: 20px 40px;
     gap: 10px;
+    border: none;
 }
 
 /* this is a header style */
@@ -54,6 +55,8 @@ img {
 main{
     margin-top: 250px;
 }
+
+/* this is a main section-1 style */
 
 .our {
     color: #272727;
@@ -88,5 +91,37 @@ main{
     transition: 400ms;
 
 }
+.tree{
+    margin-top: 60px;
+}
+/* this is a main section-2 style */
+.seceknt{
+    margin-top: 125px;
+}
+.Hot-Deal{
+    display: flex;
+    border-radius: 8px;
+   background: rgba(229, 84, 115, 0.05);
+    padding: 100px 120px;
+    justify-content: center;
+    align-items: center;
+}
+.HOt{
+   color: #272727;
+  font-size: 40px;
+  font-weight: 800;
 
+}
+.of{
+  color: #E55473;
+ font-size: 40px;
+ font-weight: 800;
 
+}
+.Deal{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+
+}
